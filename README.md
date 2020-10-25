@@ -1,6 +1,6 @@
-## Hi there <img src="Hi.gif" width="30px"></h2>
+## Hi there <img src="Hi.gif" width="30px"></h2> ======
 
-😄 Pronouns: She/Her
+:rainbow:  Pronouns: She/Her 
 
 <a><img  align="center" src="image_presentation.png" /></a>
 <center>
@@ -14,7 +14,7 @@
 
 *******
 
-### Social
+### Social :mag: ========
 
 <a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16" align="left"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
 <a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16" align="left"></img></a> [Email](https://www.gmail.com)
