@@ -11,13 +11,19 @@
     </tr>   
 </table>
 </center> 
-<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-***
 
 ### Social :mag:  
 
 <a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16" align="left"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
+<br>
 <a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16" align="left"></img></a> [Email](https://www.gmail.com)
 
 
