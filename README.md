@@ -2,11 +2,12 @@
 
 😄 Pronouns: She/Her
 
+<img  align="center" src="IMAGE.png" />
 <center>
 <table>
     <tr>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMesquita&hide=html&layout=compact&theme=buefy" />
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DeMesquita&theme=buefy"/>
+       <td> <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMesquita&hide=html&layout=compact&theme=buefy" /> <td/>
+       <td> <img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=DeMesquita&theme=buefy"/><td/>
     </tr>   
 </table>
 </center> 
