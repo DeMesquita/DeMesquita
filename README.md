@@ -1,4 +1,4 @@
-### Hi there <img src="Hi.gif" width="30px"></h2>
+## Hi there <img src="Hi.gif" width="30px"></h2>
 
 😄 Pronouns: She/Her
 
@@ -12,10 +12,11 @@
 </table>
 </center> 
 
-<left>
-     <a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16" align="left"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
-     <a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16" align="left"></img></a> [Email](https://www.gmail.com)
-</left>
+### Social
+
+<a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16" align="left"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
+<a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16" align="left"></img></a> [Email](https://www.gmail.com)
+
 
 <!--
 **DeMesquita/DeMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
