@@ -11,6 +11,9 @@
     </tr>   
 </table>
 </center> 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMesquita&hide=html&layout=compact&theme=buefy" />
+
+<a href="https://www.linkedin.com/in/demesquita"><img src="https://github.com/DeMesquita/Demesquita/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
 <!--
 **DeMesquita/DeMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
