@@ -1,5 +1,15 @@
 ### Hi there <img src="Hi.gif" width="30px"></h2>
 
+😄 Pronouns: She/Her
+
+<center>
+<table>
+    <tr>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMesquita&hide=html&layout=compact&theme=buefy" />
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DeMesquita&theme=buefy"/>
+    </tr>   
+</table>
+</center> 
 <!--
 **DeMesquita/DeMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
