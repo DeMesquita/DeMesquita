@@ -1,4 +1,4 @@
-### Hi there <img src="Hi" width="30px"></h2>
+### Hi there <img src="Hi.gif" width="30px"></h2>
 
 <!--
 **DeMesquita/DeMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
