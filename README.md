@@ -14,8 +14,8 @@
 
 <left>
 <table>
-     <a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
-     <a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16"></img></a> [Email]
+     <a href="https://www.linkedin.com/in/demesquita"><img src="linkedin.png" width="16" align="left"></img></a> [LinkedIn](https://www.linkedin.com/in/demesquita)
+     <a href="mailto:nayaramesquit@gmail.com"><img src="gmail.png" width="16" align="left"></img></a> [Email](https://www.gmail.com)
 </table>
 </left>
 
