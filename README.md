@@ -1,4 +1,4 @@
-## Hi there <img src="Hi.gif" width="30px"></h2> ======
+## Hi there <img src="Hi.gif" width="30px"></h2> 
 
 :rainbow:  Pronouns: She/Her 
 
@@ -12,7 +12,7 @@
 </table>
 </center> 
 
-*******
+***
 
 ### Social :mag: ========
 
